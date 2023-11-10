@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1699649115 source:c:\users\lenovo\onedrive\desktop\project amit\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+	"STD.h"
+
+1699653460 c:\users\lenovo\onedrive\desktop\project amit\sdb.h
+	"STD.h"
+
+1699649115 c:\users\lenovo\onedrive\desktop\project amit\std.h
+
+1699649115 source:c:\users\lenovo\onedrive\desktop\project amit\sdb.c
+	"SDB.h"
+
+1699649732 source:c:\users\lenovo\onedrive\desktop\project amit\sdbapp.c
+	<stdio.h>
+	"SDB.h"
+
